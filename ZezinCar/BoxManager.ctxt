@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BoxManager
+comment1.params=
+comment1.target=void\ adicionarBox()
+comment2.params=id\ ocupado
+comment2.target=void\ atualizarStatusBox(int,\ boolean)
+comment3.params=id\ horario
+comment3.target=void\ removerHorarioDisponivel(int,\ java.lang.String)
+comment4.params=id
+comment4.target=Box\ buscarBoxPorId(int)
+comment5.params=
+comment5.target=void\ listarBoxes()
+numComments=6

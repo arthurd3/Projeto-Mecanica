@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ClienteManager
+comment1.params=nome\ telefone
+comment1.target=void\ cadastrarCliente(java.lang.String,\ java.lang.String)
+comment2.params=id\ novoNome\ novoTelefone
+comment2.target=void\ atualizarCliente(int,\ java.lang.String,\ java.lang.String)
+comment3.params=id
+comment3.target=void\ deletarCliente(int)
+comment4.params=id
+comment4.target=Cliente\ buscarClientePorId(int)
+comment5.params=
+comment5.target=void\ listarClientes()
+numComments=6

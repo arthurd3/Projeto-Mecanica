@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PecasManager
+comment1.params=
+comment1.target=PecasManager()
+comment2.params=
+comment2.target=void\ adicionarPeca()
+comment3.params=id
+comment3.target=void\ deletarPeca(int)
+comment4.params=
+comment4.target=void\ listarPecas()
+comment5.params=id
+comment5.target=Pecas\ buscarPecaPorId(int)
+numComments=6
